@@ -1,0 +1,34 @@
+{
+  "tests": [
+    {
+      "name": "isSorted",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testIsSorted",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "hasCountCopies",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testHasCountCopies",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "binarySearch",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testBinarySearch",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
